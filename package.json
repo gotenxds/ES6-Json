@@ -1,0 +1,11 @@
+git init{
+  "name": "es6-json",
+  "version": "0.0.1",
+  "description": "Allows stringifying and parsing string from ES6 elements (sets and maps) that do not work with JSON.* methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David limkys",
+  "license": "ISC"
+}
